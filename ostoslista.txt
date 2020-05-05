@@ -37,3 +37,4 @@ makkara
 viina
 sauna
 makkara
+viina
