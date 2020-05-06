@@ -39,3 +39,4 @@ sauna
 makkara
 viina
 uusi tuote
+terveisiä paikallisesta reposta
